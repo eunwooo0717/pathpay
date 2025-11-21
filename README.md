@@ -64,4 +64,4 @@ If the `gain` value is negative, the script tells you that skipping the detour i
 - The dataset is currently filtered to Gwangjin/Songpa. Modify `load_and_prepare` if you need different regions.
 
 ## License
-Distributed under the [MIT License](LICENSE).
+Distributed under the [Apache License 2.0](LICENSE).
