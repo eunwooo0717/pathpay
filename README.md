@@ -1,6 +1,10 @@
 # PathPay
 PathPay recommends the gas station with the **lowest total cost (fuel price + detour fuel + time value)** when you drive between Seoul’s Gwangjin and Songpa districts. It relies on Kakao’s APIs to geocode addresses, evaluate detours, and quantify whether a stopover is worth it.
 
+## Documentation
+- Read the full guide on ReadTheDocs: https://pathpay.readthedocs.io/
+- Build locally: `cd docs && pip install -r requirements.txt && make html`
+
 ## Features
 - Merge multiple CSV files and keep only stations in Gwangjin/Songpa
 - Geocode addresses through the Kakao Local API and fetch distance/time using Kakao Mobility Directions
