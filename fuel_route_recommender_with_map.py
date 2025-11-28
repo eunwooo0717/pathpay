@@ -2,10 +2,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-총비용(연료비 + 우회연료비 + 시간가치) 최소화 주유소 추천 + 지도 시각화
-- 기존 기능 그대로 + --save_map <파일경로.html> 옵션 추가
-- 지도: Folium(Leaflet)로 A, B, Top3 마커 표시 + A→B 직선 / A→S→B 직선 표시
-  (주의: 실제 도로 폴리라인이 아닌 '지오메트리 직선'입니다. Directions 폴리라인 추출 시 API 문서에 맞춰 확장 가능)
+총비용(연료비 + 우회연료비 + 시간가치) 최소화 주유소 추천 + 지도 시각화.
+
+기능:
+
+* 기존 CLI 기능 그대로 + ``--save_map <파일경로.html>`` 옵션 제공.
+* Folium(Leaflet)로 출발지/도착지/Top3 마커와 직선 경로(A→B, A→S→B)를 표시
+  한다. (주의: 실제 도로 폴리라인이 아닌 단순 지오메트리 직선입니다. Directions
+  폴리라인을 쓰려면 Kakao API 응답을 파싱해 확장하세요.)
 """
 
 import os, math, json, time, glob, argparse
