@@ -14,7 +14,7 @@ and references for contributors and operators.
    :maxdepth: 1
    :caption: Guides
 
-   about
+   about/index
    getting_started
    how_to_use
    technical_overview

@@ -33,4 +33,3 @@ Project scope
 * **Output medium** – At present the CLI prints textual recommendations. The
   optional ``fuel_route_recommender_with_map.py`` script can save a Folium map
   for richer visualization.
-
