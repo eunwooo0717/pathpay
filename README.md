@@ -6,9 +6,10 @@ PathPay recommends the gas station with the **lowest total cost (fuel price + de
 - Build locally: `cd docs && pip install -r requirements.txt && make html`
 
 ## Website
-- The GitHub Pages site lives in `website/`.
+- Live site: https://eunwooo0717.github.io/pathpay
+- Source lives in `website/` (Jekyll/Minima).
 - Preview locally: `cd website && bundle install && bundle exec jekyll serve`
-- When GitHub Pages is enabled it will publish to `https://eunwooo0717.github.io/pathpay`
+- Deployed via the `gh-pages` branch.
 
 ## Features
 - Merge multiple CSV files and keep only stations in Gwangjin/Songpa
