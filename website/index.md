@@ -6,9 +6,8 @@ title: PathPay · Fuel Smarter
 # Fuel Smarter on Every Trip
 
 PathPay helps Seoul drivers pick the fueling stop that minimizes **total trip
-cost**—fuel price, detour fuel, and time value—between Gwangjin and Songpa. The
-site takes visual cues from the clean, high-contrast look of the Apache Hadoop
-homepage while keeping a lightweight, mobile-friendly layout.
+cost**—fuel price, detour fuel, and time value—between Gwangjin and Songpa. It
+keeps a lightweight, mobile-friendly layout for quick scanning on any device.
 
 - 🔗 **Docs** – Full setup & API reference on
   [ReadTheDocs]({{ site.docs_url }})
