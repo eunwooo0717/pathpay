@@ -6,8 +6,7 @@ title: PathPay · Fuel Smarter
 # Fuel Smarter on Every Trip
 
 PathPay helps Seoul drivers pick the fueling stop that minimizes **total trip
-cost**—fuel price, detour fuel, and time value—between Gwangjin and Songpa. This
-site is a static overview with links to the CLI, docs, and community.
+cost**—fuel price, detour fuel, and time value—between Gwangjin and Songpa.
 
 - 🔗 **Docs** – Full setup & API reference on
   [ReadTheDocs]({{ site.docs_url }})
