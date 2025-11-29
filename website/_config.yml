@@ -22,7 +22,7 @@ baseurl: "/pathpay" # the subpath of your site, e.g. /blog
 url: "https://eunwooo0717.github.io"
 twitter_username: ""
 github_username: eunwooo0717
-docs_url: https://pathpay.readthedocs.io/
+docs_url: https://pathpay.readthedocs.io
 
 header_pages:
   - index.md
