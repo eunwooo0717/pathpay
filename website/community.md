@@ -22,11 +22,3 @@ of total-cost fueling intelligence. Choose the channel that suits you best:
   [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
 - **Support** – Ask configuration or deployment questions:
   [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
-
-## Community Values
-
-- Inclusive participation inspired by the Django and Apache communities.
-- Transparency for design decisions and roadmap discussions.
-- Mentorship for new contributors—check the
-  [Contribution Guidelines]({{ site.docs_url }}/en/latest/contributing_guide/)
-  to get involved.
