@@ -18,8 +18,8 @@ email: contact@pathpay.dev
 description: >-
   PathPay minimizes total fueling costs (price + detour fuel + time value)
   between Seoul’s Gwangjin and Songpa districts.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eunwooo0717.github.io/pathpay"
+baseurl: "/pathpay" # the subpath of your site, e.g. /blog
+url: "https://eunwooo0717.github.io"
 twitter_username: ""
 github_username: eunwooo0717
 docs_url: https://pathpay.readthedocs.io/
