@@ -5,6 +5,11 @@ PathPay recommends the gas station with the **lowest total cost (fuel price + de
 - Read the full guide on ReadTheDocs: https://pathpay.readthedocs.io/
 - Build locally: `cd docs && pip install -r requirements.txt && make html`
 
+## Website
+- The GitHub Pages site lives in `website/`.
+- Preview locally: `cd website && bundle install && bundle exec jekyll serve`
+- When GitHub Pages is enabled it will publish to `https://eunwooo0717.github.io/pathpay`
+
 ## Features
 - Merge multiple CSV files and keep only stations in Gwangjin/Songpa
 - Geocode addresses through the Kakao Local API and fetch distance/time using Kakao Mobility Directions
