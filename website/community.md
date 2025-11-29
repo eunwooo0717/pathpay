@@ -19,18 +19,9 @@ of total-cost fueling intelligence. Choose the channel that suits you best:
 ## Mailing Lists
 
 - **Announcements** – Product updates and release notes:
-  [pathpay-announce@pathpay.dev](mailto:pathpay-announce@pathpay.dev)
+  [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
 - **Support** – Ask configuration or deployment questions:
-  [pathpay-support@pathpay.dev](mailto:pathpay-support@pathpay.dev)
-
-## Real-time Channels
-
-- **Slack** – Request an invite to the PathPay workspace:
-  [pathpay.slack.com](https://pathpay.slack.com) (ping us via the contact form)
-- **Discord** – Join informal chats and office hours:
-  [discord.gg/pathpay](https://discord.gg/pathpay)
-- **Gitter** – Lightweight public room for code help:
-  [gitter.im/pathpay/community](https://gitter.im/pathpay/community)
+  [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
 
 ## Community Values
 

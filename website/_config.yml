@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: PathPay
-email: contact@pathpay.dev
+email: eunwooo0717@gmail.com
 description: >-
   PathPay minimizes total fueling costs (price + detour fuel + time value)
   between Seoul’s Gwangjin and Songpa districts.

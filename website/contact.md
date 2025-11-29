@@ -10,8 +10,8 @@ Need a quick response? Pick one of the options below.
 
 ## Email
 
-- General inquiries: [contact@pathpay.dev](mailto:contact@pathpay.dev)
-- Security questions: [security@pathpay.dev](mailto:security@pathpay.dev)
+- General inquiries: [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
+- Security questions: [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
 
 ## GitHub
 
