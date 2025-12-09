@@ -22,3 +22,8 @@ of total-cost fueling intelligence. Choose the channel that suits you best:
   [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
 - **Support** – Ask configuration or deployment questions:
   [eunwooo0717@gmail.com](mailto:eunwooo0717@gmail.com)
+
+## Real-time Chat
+
+- **Discord** – Join informal chats and office hours:
+  [discord.gg/pathpay](https://discord.gg/pathpay)
