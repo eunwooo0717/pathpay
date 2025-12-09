@@ -26,4 +26,4 @@ of total-cost fueling intelligence. Choose the channel that suits you best:
 ## Real-time Chat
 
 - **Discord** – Join informal chats and office hours:
-  [discord.gg/pathpay](https://discord.gg/pathpay)
+  [https://discord.gg/TAVRuyNJ](https://discord.gg/TAVRuyNJ)
