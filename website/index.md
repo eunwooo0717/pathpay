@@ -2,9 +2,6 @@
 layout: home
 title: PathPay · Fuel Smarter
 ---
-
-# Fuel Smarter on Every Trip
-
 # Fuel Smarter on Every Trip
 
 PathPay helps Seoul drivers pick the fueling stop that minimizes **total trip
