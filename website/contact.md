@@ -22,13 +22,4 @@ Need a quick response? Pick one of the options below.
 
 ## Social & Chat
 
-- Slack invite requests via email, after which you can join
-  [pathpay.slack.com](https://pathpay.slack.com).
-- Discord server: [discord.gg/pathpay](https://discord.gg/pathpay).
-
-## Media Kit
-
-- Mission overview and screenshots are available in the
-  [ReadTheDocs “About the Project” page]({{ site.docs_url }}/en/latest/about/).
-- Need a custom quote or press release? Email
-  [press@pathpay.dev](mailto:press@pathpay.dev).
+- Discord server: [https://discord.gg/TAVRuyNJ](https://discord.gg/TAVRuyNJ).
