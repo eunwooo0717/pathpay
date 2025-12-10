@@ -21,7 +21,3 @@ cost**—fuel price, detour fuel, and time value—between Gwangjin and Songpa.
 2. **Kakao-powered routing** ensures realistic detour distance and time.
 3. **Actionable outputs** including top 3 stations and Kakao Map deeplinks.
 4. **Optional visuals** with Folium maps for presentations or dashboards.
-
-Get started in a few minutes with the
-[Getting Started guide]({{ site.docs_url }}/en/latest/getting_started/), then
-discover more on the [Features page]({{ '/features' | relative_url }}).
