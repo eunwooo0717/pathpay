@@ -11,8 +11,8 @@ of total-cost fueling intelligence. Choose the channel that suits you best:
 
 ## Discussion Forums
 
-- **Forum (GitHub Issues, until Discussions is enabled)** – Share ideas, roadmaps,
-  and showcases in the open: [pathpay issues](https://github.com/{{ site.github_username }}/pathpay/issues)
+- **GitHub Discussions** – Share ideas, roadmaps, and showcases in the open:
+  [pathpay discussions](https://github.com/{{ site.github_username }}/pathpay/discussions)
 - **Issue Tracker** – Report bugs or request features:
   [pathpay issues](https://github.com/{{ site.github_username }}/pathpay/issues)
 
