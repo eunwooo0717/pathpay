@@ -6,8 +6,7 @@ permalink: /community
 
 # Stay Connected
 
-PathPay invites drivers, data scientists, and civic hackers to shape the future
-of total-cost fueling intelligence. Choose the channel that suits you best:
+This is the community hub for PathPay users and contributors. Choose the channel that works best for you.
 
 ## Discussion Forums
 
